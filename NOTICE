@@ -1,0 +1,18 @@
+Inspection points: which street lights are out, which drains to clean
+
+Data in data/ is derived from:
+- Lights, poles, stormwater pits, stormwater end structures and stormwater pipes: City of Gold Coast Open Data,
+  licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+- Street lamps and roads: (c) OpenStreetMap contributors, licensed under the Open Database Licence (ODbL),
+  https://opendatacommons.org/licenses/odbl/. Rows with source OSM, the dark stretches and expected_lights.csv
+  are derived from OpenStreetMap and stay under the ODbL.
+
+The council-derived data is released under CC BY 4.0 (LICENSE-DATA), with these credits kept.
+The notebook and code are released under the MIT licence (LICENSE).
+
+The night patrol (patrol_trace.csv, patrol_taps.csv), the silt survey in pits.csv and cleaning_priority.csv, and
+everything in data/site/ (a made-up site and a simulated emergency lighting test) are simulated to show the
+workflow. They are not real inspection data. Costs are indicative, not quotes.
+
+This is independent work using open data, not endorsed by the City of Gold Coast.
+Base maps in visuals/: (c) OpenStreetMap contributors (ODbL), tiles Protomaps.

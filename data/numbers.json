@@ -1,0 +1,242 @@
+{
+ "generated": "2026-11-23T23:00:00.000Z",
+ "area": "Burleigh Heads and Miami, Gold Coast: 153.425 to 153.460 E, 28.075 to 28.100 S",
+ "lighting": {
+  "council_lights": 420,
+  "council_light_kinds": {
+   "path_light": 244,
+   "floodlight": 118,
+   "car_park_light": 13,
+   "street_light": 33,
+   "bollard_light": 7,
+   "internal_light": 5
+  },
+  "council_poles": 348,
+  "lights_on_a_pole": 309,
+  "owners_all_council_points": {
+   "council": 662,
+   "utility": 23,
+   "state": 54,
+   "private": 12
+  },
+  "positional_accuracy_classes": {
+   "D": 335,
+   "none": 135,
+   "E": 274,
+   "C": 6,
+   "B": 1
+  },
+  "osm_street_lamps": 227,
+  "osm_within_10m_of_council": 53,
+  "osm_added": 174,
+  "osm_merged": 53,
+  "osm_base": "2026-11-24T06:13:06Z",
+  "added": {
+   "lights": 404,
+   "poles": 347
+  }
+ },
+ "roads": {
+  "ways": 546,
+  "km": 88.6,
+  "lights_on_record": 573,
+  "expected_every_60m_not_mapped": 1377,
+  "dark_stretches_over_80m": 294,
+  "dark_km": 59.6,
+  "dark_share": 67,
+  "dark_points_added": 294
+ },
+ "patrol": {
+  "simulated": true,
+  "streets": [
+   "Bermuda Street",
+   "Honeyeater Drive",
+   "Christine Avenue",
+   "Dipper Drive",
+   "Nuthatch Street",
+   "Lower Gold Coast Highway",
+   "Coronet Crescent",
+   "Cassowary Drive",
+   "Manakin Avenue"
+  ],
+  "lights_passed": 105,
+  "km": 6,
+  "planted": 21,
+  "taps": 21,
+  "matched_right": 19,
+  "flagged_check": 5,
+  "wrong_but_ok": 1,
+  "unmatched": 0,
+  "recorded": 21,
+  "working": 93,
+  "faults_by_owner": {
+   "Not stated": 20,
+   "State roads authority": 1
+  },
+  "repairs": 21,
+  "repairs_total": 9070,
+  "how": "Each tap went to the nearest light within 35 m, preferring one ahead of or beside the direction of travel and one not tapped already. \"check\": over 20 m away or a close second."
+ },
+ "stormwater": {
+  "inlet_pits": 2231,
+  "outlets": 158,
+  "added": 2389,
+  "network": {
+   "utility": "stormwater",
+   "tolerance_m": 0.5,
+   "radial": true,
+   "lines": 3720,
+   "length_m": 80874,
+   "line_roles": {
+    "main": 3720
+   },
+   "points": 3586,
+   "roles": {
+    "pit": 3428,
+    "outlet": 158
+   },
+   "nodes": 3801,
+   "edges": 3739,
+   "joined_by_tolerance": 62,
+   "largest_gap_m": 0.49,
+   "tees": 17,
+   "points_joined": 3579,
+   "points_not_joined": 7,
+   "assumed_service_lines": 0,
+   "left_out": 15,
+   "roots": "outlets and the edge of the area",
+   "root_count": 210,
+   "columns": {
+    "id": "SAPOBJECTID",
+    "type": "INLET_TYPE",
+    "upstream": "UPSTREAM_INVERT_LEVEL",
+    "from": "FROM_SAPID_FOR_MODELLING",
+    "to": "TO_SAPID_FOR_MODELLING",
+    "life": "GIS_USER_STATUS"
+   }
+  },
+  "surveyed_simulated": 600,
+  "silt_pct_counts": {
+   "0": 250,
+   "25": 257,
+   "50": 82,
+   "75": 11
+  },
+  "scored": 600,
+  "method": "Weighted mean of silt and debris last seen (share of depth) 50, length of pipe draining through it (percentile) 30, each 0 to 100. A pit not yet inspected is left unscored.",
+  "top": [
+   {
+    "id": "SEP-054",
+    "name": "Side entry pit 000000004000046393",
+    "score": 84.2,
+    "silt": 75,
+    "catchment_m": 1325
+   },
+   {
+    "id": "SEP-070",
+    "name": "Side entry pit 000000004000046975",
+    "score": 84,
+    "silt": 75,
+    "catchment_m": 860
+   },
+   {
+    "id": "SEP-1320",
+    "name": "Side entry pit 000000004000175100",
+    "score": 77,
+    "silt": 75,
+    "catchment_m": 11
+   },
+   {
+    "id": "SEP-1174",
+    "name": "Side entry pit 000000004000168889",
+    "score": 75.8,
+    "silt": 75,
+    "catchment_m": 7
+   },
+   {
+    "id": "SEP-1465",
+    "name": "Side entry pit 000000004000178648",
+    "score": 75.3,
+    "silt": 75,
+    "catchment_m": 6
+   }
+  ],
+  "run": {
+   "run": "Cleaning run: top 40",
+   "points": 40,
+   "length_km": 13.3
+  },
+  "cleaning": 93,
+  "repair": 26,
+  "repairs": 119,
+  "repairs_total": 36533,
+  "note": "A prioritisation aid from the weights stated, not a flood model or an engineering assessment: how full a pit was when last seen, how much pipe drains through it on the network as drawn, and the flood-prone areas given."
+ },
+ "progress": {
+  "lights": {
+   "total": 1219,
+   "done": 114,
+   "faults": 21
+  },
+  "pits": {
+   "total": 2389,
+   "done": 600,
+   "cleaning": 93,
+   "repair": 26
+  }
+ },
+ "expected_layer": 1377,
+ "site": {
+  "blocks": [
+   {
+    "block": "EM_LIGHT",
+    "layer": "E-EMERG",
+    "count": 12,
+    "kind": "emergency_light"
+   },
+   {
+    "block": "CP_POLE_9M",
+    "layer": "E-LIGHT-EXT",
+    "count": 8,
+    "kind": "car_park_light"
+   },
+   {
+    "block": "WALLPACK_LED",
+    "layer": "E-LIGHT-EXT",
+    "count": 8,
+    "kind": "wall_pack"
+   },
+   {
+    "block": "BOLLARD_1M",
+    "layer": "E-LIGHT-EXT",
+    "count": 5,
+    "kind": "bollard_light"
+   },
+   {
+    "block": "EXIT_SIGN",
+    "layer": "E-EMERG",
+    "count": 4,
+    "kind": "exit_sign"
+   },
+   {
+    "block": "FLOOD_150W",
+    "layer": "E-LIGHT-EXT",
+    "count": 1,
+    "kind": "floodlight"
+   }
+  ],
+  "kinds": {
+   "car_park_light": 8,
+   "wall_pack": 8,
+   "bollard_light": 5,
+   "floodlight": 1,
+   "emergency_light": 12,
+   "exit_sign": 4
+  },
+  "emergency": {
+   "fittings": 16,
+   "tested": 16,
+   "failed": 2
+  }
+ }
+}

@@ -1,0 +1,17 @@
+id,name,kind,level,tested,on_mains,lasted_on_battery,minutes_if_failed,result,next_due,state
+EL-001,Emergency light EM_LIGHT 1,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-002,Emergency light EM_LIGHT 2,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-003,Emergency light EM_LIGHT 3,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-004,Emergency light EM_LIGHT 4,Emergency light,,2026-11-20,yes,no,40,Fail,2027-05-20,Next due 2027-05-20
+EL-005,Emergency light EM_LIGHT 5,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-006,Emergency light EM_LIGHT 6,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-007,Emergency light EM_LIGHT 7,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-008,Emergency light EM_LIGHT 8,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-009,Emergency light EM_LIGHT 9,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-010,Emergency light EM_LIGHT 10,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-011,Emergency light EM_LIGHT 11,Emergency light,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EL-012,Emergency light EM_LIGHT 12,Emergency light,,2026-11-20,yes,no,68,Fail,2027-05-20,Next due 2027-05-20
+EX-001,Exit sign EXIT_SIGN 1,Exit sign,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EX-002,Exit sign EXIT_SIGN 2,Exit sign,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EX-003,Exit sign EXIT_SIGN 3,Exit sign,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20
+EX-004,Exit sign EXIT_SIGN 4,Exit sign,,2026-11-20,yes,yes,,Pass,2027-05-20,Next due 2027-05-20

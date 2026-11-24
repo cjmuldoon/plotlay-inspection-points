@@ -1,0 +1,141 @@
+ref,plan,asset,title,code,qty,unit,owner,priority,rate_aud,amount_aud,low_aud,high_aud
+ACT-0001,Burleigh lights,Street light (OSM 6126046020),Dim: Street light (OSM 6126046020),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0002,Burleigh lights,Street light (OSM 10211462621),Flickering or cycling: Street light (OSM 10211462621),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0003,Burleigh lights,Street light (OSM 10211462642),Out: Street light (OSM 10211462642),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0004,Burleigh lights,Street light (OSM 10211462648),Flickering or cycling: Street light (OSM 10211462648),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0005,Burleigh lights,Street light (OSM 10211462649),Out: Street light (OSM 10211462649),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0006,Burleigh lights,Street light (OSM 10211462674),On in daylight (day burner): Street light (OSM 10211462674),lt.pe_cell,1,ea,Not stated,medium,156.05,156.05,135.45,194.45
+ACT-0007,Burleigh lights,Street light (OSM 10211462675),Out: Street light (OSM 10211462675),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0008,Burleigh lights,Street light (OSM 10211462680),Flickering or cycling: Street light (OSM 10211462680),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0009,Burleigh lights,Street light (OSM 10213661596),Out: Street light (OSM 10213661596),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0010,Burleigh lights,Street light (OSM 10213661616),Obstructed by a tree: Street light (OSM 10213661616),tr.prune,1,ea,Not stated,medium,500,500,375,700
+ACT-0011,Burleigh lights,Street light (OSM 10213683217),Out: Street light (OSM 10213683217),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0012,Burleigh lights,Street light (OSM 10213683304),Out: Street light (OSM 10213683304),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0013,Burleigh lights,Street light (OSM 10213697829),Flickering or cycling: Street light (OSM 10213697829),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0014,Burleigh lights,Street light (OSM 10213697832),Flickering or cycling: Street light (OSM 10213697832),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0015,Burleigh lights,Street light (OSM 10213697835),Flickering or cycling: Street light (OSM 10213697835),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0016,Burleigh lights,Street light (OSM 12550733781),Out: Street light (OSM 12550733781),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0017,Burleigh lights,Street light (OSM 12550733783),Flickering or cycling: Street light (OSM 12550733783),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0018,Burleigh lights,Street light (OSM 12550733791),Out: Street light (OSM 12550733791),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0019,Burleigh lights,Street light (OSM 12550733793),Flickering or cycling: Street light (OSM 12550733793),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
+ACT-0020,Burleigh lights,Street light (OSM 12550776312),Out: Street light (OSM 12550776312),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0021,Burleigh lights,PRIVATE DTMR - LIGHT,Dim: PRIVATE DTMR - LIGHT,lt.lamp,1,ea,State roads authority,medium,289.1,289.1,243.2,382.95
+ACT-0022,Burleigh pits before the wet,Side entry pit 000000004000046393,Needs cleaning (silt 75% of depth); Needs repair: Side entry pit 000000004000046393,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0023,Burleigh pits before the wet,Side entry pit 000000004000046393,Needs cleaning (silt 75% of depth); Needs repair: Side entry pit 000000004000046393,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0024,Burleigh pits before the wet,Side entry pit 000000004000046498,Needs cleaning (silt 50% of depth): Side entry pit 000000004000046498,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0025,Burleigh pits before the wet,Side entry pit 000000004000046975,Needs cleaning (silt 75% of depth): Side entry pit 000000004000046975,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0026,Burleigh pits before the wet,Side entry pit 000000004000057304,Needs repair: Side entry pit 000000004000057304,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0027,Burleigh pits before the wet,Side entry pit 000000004000057314,Needs cleaning (silt 50% of depth): Side entry pit 000000004000057314,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0028,Burleigh pits before the wet,Side entry pit 000000004000057720,Needs cleaning (silt 50% of depth): Side entry pit 000000004000057720,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0029,Burleigh pits before the wet,Side entry pit 000000004000058160,Needs cleaning (silt 50% of depth): Side entry pit 000000004000058160,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0030,Burleigh pits before the wet,Side entry pit 000000004000058398,Needs cleaning (silt 50% of depth): Side entry pit 000000004000058398,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0031,Burleigh pits before the wet,Side entry pit 000000004000058469,Needs cleaning (silt 50% of depth): Side entry pit 000000004000058469,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0032,Burleigh pits before the wet,Side entry pit 000000004000081069,Needs cleaning (silt 50% of depth): Side entry pit 000000004000081069,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0033,Burleigh pits before the wet,Side entry pit 000000004000097912,Needs cleaning (silt 50% of depth): Side entry pit 000000004000097912,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0034,Burleigh pits before the wet,Side entry pit 000000004000097958,Needs cleaning (silt 50% of depth): Side entry pit 000000004000097958,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0035,Burleigh pits before the wet,Side entry pit 000000004000098006,Needs cleaning (silt 50% of depth): Side entry pit 000000004000098006,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0036,Burleigh pits before the wet,Side entry pit 000000004000098021,Needs cleaning (silt 50% of depth): Side entry pit 000000004000098021,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0037,Burleigh pits before the wet,Side entry pit 000000004000102696,Needs cleaning (silt 50% of depth): Side entry pit 000000004000102696,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0038,Burleigh pits before the wet,Side entry pit 000000004000102717,Needs cleaning (silt 50% of depth): Side entry pit 000000004000102717,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0039,Burleigh pits before the wet,Side entry pit 000000004000102778,Needs cleaning (silt 50% of depth): Side entry pit 000000004000102778,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0040,Burleigh pits before the wet,Side entry pit 000000004000102837,Needs cleaning (silt 50% of depth): Side entry pit 000000004000102837,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0041,Burleigh pits before the wet,Side entry pit 000000004000103000,Needs cleaning (silt 50% of depth): Side entry pit 000000004000103000,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0042,Burleigh pits before the wet,Side entry pit 000000004000103028,Needs repair: Side entry pit 000000004000103028,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0043,Burleigh pits before the wet,Side entry pit 000000004000103315,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000103315,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0044,Burleigh pits before the wet,Side entry pit 000000004000103315,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000103315,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0045,Burleigh pits before the wet,Side entry pit 000000004000103339,Needs cleaning (silt 50% of depth): Side entry pit 000000004000103339,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0046,Burleigh pits before the wet,Side entry pit 000000004000113362,Needs cleaning (silt 50% of depth): Side entry pit 000000004000113362,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0047,Burleigh pits before the wet,Side entry pit 000000004000113591,Needs repair: Side entry pit 000000004000113591,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0048,Burleigh pits before the wet,Side entry pit 000000004000113862,Needs cleaning (silt 50% of depth): Side entry pit 000000004000113862,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0049,Burleigh pits before the wet,Side entry pit 000000004000114620,Needs cleaning (silt 50% of depth): Side entry pit 000000004000114620,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0050,Burleigh pits before the wet,Side entry pit 000000004000114672,Needs cleaning (silt 50% of depth): Side entry pit 000000004000114672,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0051,Burleigh pits before the wet,Side entry pit 000000004000114861,Needs cleaning (silt 50% of depth): Side entry pit 000000004000114861,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0052,Burleigh pits before the wet,Side entry pit 000000004000114870,Needs cleaning (silt 50% of depth): Side entry pit 000000004000114870,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0053,Burleigh pits before the wet,Side entry pit 000000004000119312,Needs cleaning (silt 50% of depth): Side entry pit 000000004000119312,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0054,Burleigh pits before the wet,Side entry pit 000000004000119386,Needs cleaning (silt 50% of depth): Side entry pit 000000004000119386,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0055,Burleigh pits before the wet,Side entry pit 000000004000119418,Needs cleaning (silt 50% of depth): Side entry pit 000000004000119418,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0056,Burleigh pits before the wet,Side entry pit 000000004000139379,Needs repair: Side entry pit 000000004000139379,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0057,Burleigh pits before the wet,Side entry pit 000000004000140486,Needs cleaning (silt 75% of depth): Side entry pit 000000004000140486,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0058,Burleigh pits before the wet,Side entry pit 000000004000140894,Needs cleaning (silt 50% of depth): Side entry pit 000000004000140894,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0059,Burleigh pits before the wet,Side entry pit 000000004000143440,Needs repair: Side entry pit 000000004000143440,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0060,Burleigh pits before the wet,Side entry pit 000000004000145004,Needs cleaning (silt 50% of depth): Side entry pit 000000004000145004,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0061,Burleigh pits before the wet,Side entry pit 000000004000145383,Needs cleaning (silt 50% of depth): Side entry pit 000000004000145383,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0062,Burleigh pits before the wet,Side entry pit 000000004000145576,Needs cleaning (silt 50% of depth): Side entry pit 000000004000145576,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0063,Burleigh pits before the wet,Side entry pit 000000004000145615,Needs repair: Side entry pit 000000004000145615,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0064,Burleigh pits before the wet,Side entry pit 000000004000153400,Needs cleaning (silt 50% of depth): Side entry pit 000000004000153400,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0065,Burleigh pits before the wet,Side entry pit 000000004000156268,Needs repair: Side entry pit 000000004000156268,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0066,Burleigh pits before the wet,Side entry pit 000000004000156279,Needs cleaning (silt 50% of depth): Side entry pit 000000004000156279,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0067,Burleigh pits before the wet,Side entry pit 000000004000156310,Needs cleaning (silt 50% of depth): Side entry pit 000000004000156310,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0068,Burleigh pits before the wet,Side entry pit 000000004000158630,Needs repair: Side entry pit 000000004000158630,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0069,Burleigh pits before the wet,Side entry pit 000000004000162599,Needs repair: Side entry pit 000000004000162599,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0070,Burleigh pits before the wet,Side entry pit 000000004000162618,Needs cleaning (silt 50% of depth): Side entry pit 000000004000162618,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0071,Burleigh pits before the wet,Side entry pit 000000004000162732,Needs cleaning (silt 50% of depth): Side entry pit 000000004000162732,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0072,Burleigh pits before the wet,Side entry pit 000000004000162769,Needs cleaning (silt 50% of depth): Side entry pit 000000004000162769,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0073,Burleigh pits before the wet,Side entry pit 000000004000163146,Needs cleaning (silt 50% of depth): Side entry pit 000000004000163146,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0074,Burleigh pits before the wet,Side entry pit 000000004000163731,Needs cleaning (silt 50% of depth): Side entry pit 000000004000163731,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0075,Burleigh pits before the wet,Side entry pit 000000004000163820,Needs cleaning (silt 50% of depth): Side entry pit 000000004000163820,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0076,Burleigh pits before the wet,Side entry pit 000000004000163875,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000163875,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0077,Burleigh pits before the wet,Side entry pit 000000004000163875,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000163875,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0078,Burleigh pits before the wet,Side entry pit 000000004000164043,Needs cleaning (silt 75% of depth): Side entry pit 000000004000164043,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0079,Burleigh pits before the wet,Side entry pit 000000004000165297,Needs cleaning (silt 75% of depth): Side entry pit 000000004000165297,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0080,Burleigh pits before the wet,Side entry pit 000000004000165376,Needs cleaning (silt 50% of depth): Side entry pit 000000004000165376,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0081,Burleigh pits before the wet,Side entry pit 000000004000165709,Needs cleaning (silt 50% of depth): Side entry pit 000000004000165709,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0082,Burleigh pits before the wet,Side entry pit 000000004000165817,Needs cleaning (silt 50% of depth): Side entry pit 000000004000165817,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0083,Burleigh pits before the wet,Side entry pit 000000004000165973,Needs repair: Side entry pit 000000004000165973,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0084,Burleigh pits before the wet,Side entry pit 000000004000168889,Needs cleaning (silt 75% of depth); Needs repair: Side entry pit 000000004000168889,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0085,Burleigh pits before the wet,Side entry pit 000000004000168889,Needs cleaning (silt 75% of depth); Needs repair: Side entry pit 000000004000168889,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0086,Burleigh pits before the wet,Side entry pit 000000004000169265,Needs cleaning (silt 50% of depth): Side entry pit 000000004000169265,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0087,Burleigh pits before the wet,Side entry pit 000000004000169941,Needs cleaning (silt 75% of depth): Side entry pit 000000004000169941,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0088,Burleigh pits before the wet,Side entry pit 000000004000170623,Needs repair: Side entry pit 000000004000170623,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0089,Burleigh pits before the wet,Side entry pit 000000004000170674,Needs cleaning (silt 50% of depth): Side entry pit 000000004000170674,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0090,Burleigh pits before the wet,Side entry pit 000000004000171200,Needs cleaning (silt 50% of depth): Side entry pit 000000004000171200,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0091,Burleigh pits before the wet,Side entry pit 000000004000171674,Needs cleaning (silt 50% of depth): Side entry pit 000000004000171674,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0092,Burleigh pits before the wet,Side entry pit 000000004000171861,Needs cleaning (silt 50% of depth): Side entry pit 000000004000171861,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0093,Burleigh pits before the wet,Side entry pit 000000004000171912,Needs cleaning (silt 50% of depth): Side entry pit 000000004000171912,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0094,Burleigh pits before the wet,Side entry pit 000000004000175070,Needs repair: Side entry pit 000000004000175070,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0095,Burleigh pits before the wet,Side entry pit 000000004000175100,Needs cleaning (silt 75% of depth): Side entry pit 000000004000175100,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0096,Burleigh pits before the wet,Side entry pit 000000004000175818,Needs repair: Side entry pit 000000004000175818,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0097,Burleigh pits before the wet,Side entry pit 000000004000176030,Needs cleaning (silt 50% of depth): Side entry pit 000000004000176030,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0098,Burleigh pits before the wet,Side entry pit 000000004000176108,Needs cleaning (silt 50% of depth): Side entry pit 000000004000176108,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0099,Burleigh pits before the wet,Side entry pit 000000004000177398,Needs repair: Side entry pit 000000004000177398,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0100,Burleigh pits before the wet,Side entry pit 000000004000178494,Needs cleaning (silt 50% of depth): Side entry pit 000000004000178494,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0101,Burleigh pits before the wet,Side entry pit 000000004000178648,Needs cleaning (silt 75% of depth): Side entry pit 000000004000178648,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0102,Burleigh pits before the wet,Side entry pit 000000004000183095,Needs cleaning (silt 50% of depth): Side entry pit 000000004000183095,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0103,Burleigh pits before the wet,Side entry pit 000000004000183251,Needs cleaning (silt 50% of depth): Side entry pit 000000004000183251,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0104,Burleigh pits before the wet,Side entry pit 000000004000183502,Needs cleaning (silt 50% of depth): Side entry pit 000000004000183502,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0105,Burleigh pits before the wet,Side entry pit 000000004000183838,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000183838,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0106,Burleigh pits before the wet,Side entry pit 000000004000183838,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000183838,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0107,Burleigh pits before the wet,Side entry pit 000000004000183846,Needs cleaning (silt 50% of depth): Side entry pit 000000004000183846,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0108,Burleigh pits before the wet,Side entry pit 000000004000183981,Needs cleaning (silt 50% of depth): Side entry pit 000000004000183981,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0109,Burleigh pits before the wet,Side entry pit 000000004000184532,Needs cleaning (silt 50% of depth): Side entry pit 000000004000184532,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0110,Burleigh pits before the wet,Side entry pit 000000004000184865,Needs cleaning (silt 75% of depth): Side entry pit 000000004000184865,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0111,Burleigh pits before the wet,Side entry pit 000000004000184875,Needs cleaning (silt 50% of depth): Side entry pit 000000004000184875,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0112,Burleigh pits before the wet,Side entry pit 000000004000184894,Needs repair: Side entry pit 000000004000184894,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0113,Burleigh pits before the wet,Side entry pit 000000004000185067,Needs cleaning (silt 50% of depth): Side entry pit 000000004000185067,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0114,Burleigh pits before the wet,Side entry pit 000000004000185099,Needs cleaning (silt 50% of depth): Side entry pit 000000004000185099,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0115,Burleigh pits before the wet,Side entry pit 000000004000185123,Needs cleaning (silt 50% of depth): Side entry pit 000000004000185123,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0116,Burleigh pits before the wet,Side entry pit 000000004000185226,Needs cleaning (silt 75% of depth): Side entry pit 000000004000185226,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0117,Burleigh pits before the wet,Side entry pit 000000004000185582,Needs cleaning (silt 50% of depth): Side entry pit 000000004000185582,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0118,Burleigh pits before the wet,Side entry pit 000000004000185702,Needs repair: Side entry pit 000000004000185702,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0119,Burleigh pits before the wet,Side entry pit 000000004000185783,Needs cleaning (silt 50% of depth): Side entry pit 000000004000185783,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0120,Burleigh pits before the wet,Side entry pit 000000004000186294,Needs cleaning (silt 50% of depth): Side entry pit 000000004000186294,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0121,Burleigh pits before the wet,Side entry pit 000000004000186477,Needs cleaning (silt 50% of depth): Side entry pit 000000004000186477,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0122,Burleigh pits before the wet,Side entry pit 000000004000186688,Needs cleaning (silt 50% of depth): Side entry pit 000000004000186688,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0123,Burleigh pits before the wet,Side entry pit 000000004000187063,Needs cleaning (silt 50% of depth): Side entry pit 000000004000187063,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0124,Burleigh pits before the wet,Side entry pit 000000004000187107,Needs cleaning (silt 50% of depth): Side entry pit 000000004000187107,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0125,Burleigh pits before the wet,Side entry pit 000000004000187189,Needs repair: Side entry pit 000000004000187189,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0126,Burleigh pits before the wet,Side entry pit 000000004000191028,Needs cleaning (silt 50% of depth): Side entry pit 000000004000191028,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0127,Burleigh pits before the wet,Side entry pit 000000004000191131,Needs repair: Side entry pit 000000004000191131,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0128,Burleigh pits before the wet,Side entry pit 000000004000191242,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000191242,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0129,Burleigh pits before the wet,Side entry pit 000000004000191242,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000191242,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0130,Burleigh pits before the wet,Side entry pit 000000004000192879,Needs cleaning (silt 50% of depth): Side entry pit 000000004000192879,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0131,Burleigh pits before the wet,Side entry pit 000000004000192888,Needs cleaning (silt 50% of depth): Side entry pit 000000004000192888,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0132,Burleigh pits before the wet,Side entry pit 000000004000218350,Needs repair: Side entry pit 000000004000218350,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0133,Burleigh pits before the wet,Side entry pit 000000004000261440,Needs cleaning (silt 50% of depth): Side entry pit 000000004000261440,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0134,Burleigh pits before the wet,Side entry pit 000000004000296538,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000296538,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
+ACT-0135,Burleigh pits before the wet,Side entry pit 000000004000296538,Needs cleaning (silt 50% of depth); Needs repair: Side entry pit 000000004000296538,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
+ACT-0136,Burleigh pits before the wet,Side entry pit 000000004000297283,Needs cleaning (silt 50% of depth): Side entry pit 000000004000297283,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0137,Burleigh pits before the wet,Side entry pit 000000004000301090,Needs cleaning (silt 50% of depth): Side entry pit 000000004000301090,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0138,Burleigh pits before the wet,Side entry pit 000000004000302026,Needs cleaning (silt 50% of depth): Side entry pit 000000004000302026,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0139,Burleigh pits before the wet,Side entry pit 000000004000305485,Needs cleaning (silt 50% of depth): Side entry pit 000000004000305485,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
+ACT-0140,Burleigh pits before the wet,Side entry pit 000000004000305491,Needs cleaning (silt 50% of depth): Side entry pit 000000004000305491,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
