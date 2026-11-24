@@ -73,8 +73,12 @@
    "Not stated": 20,
    "State roads authority": 1
   },
+  "started": "2026-11-24T10:00:00.000Z",
+  "sunset": "2026-11-24T08:22:42.004Z",
+  "dark_from": "2026-11-24T08:49:29.992Z",
+  "raised_by_type": 20,
   "repairs": 21,
-  "repairs_total": 9070,
+  "repairs_total": 9266,
   "how": "Each tap went to the nearest light within 35 m, preferring one ahead of or beside the direction of travel and one not tapped already. \"check\": over 20 m away or a close second."
  },
  "stormwater": {

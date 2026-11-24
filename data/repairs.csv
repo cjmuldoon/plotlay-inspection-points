@@ -1,25 +1,25 @@
 ref,plan,asset,title,code,qty,unit,owner,priority,rate_aud,amount_aud,low_aud,high_aud
-ACT-0001,Burleigh lights,Street light (OSM 6126046020),Dim: Street light (OSM 6126046020),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0002,Burleigh lights,Street light (OSM 10211462621),Flickering or cycling: Street light (OSM 10211462621),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0003,Burleigh lights,Street light (OSM 10211462642),Out: Street light (OSM 10211462642),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0004,Burleigh lights,Street light (OSM 10211462648),Flickering or cycling: Street light (OSM 10211462648),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0005,Burleigh lights,Street light (OSM 10211462649),Out: Street light (OSM 10211462649),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0006,Burleigh lights,Street light (OSM 10211462674),On in daylight (day burner): Street light (OSM 10211462674),lt.pe_cell,1,ea,Not stated,medium,156.05,156.05,135.45,194.45
-ACT-0007,Burleigh lights,Street light (OSM 10211462675),Out: Street light (OSM 10211462675),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0008,Burleigh lights,Street light (OSM 10211462680),Flickering or cycling: Street light (OSM 10211462680),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0009,Burleigh lights,Street light (OSM 10213661596),Out: Street light (OSM 10213661596),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0010,Burleigh lights,Street light (OSM 10213661616),Obstructed by a tree: Street light (OSM 10213661616),tr.prune,1,ea,Not stated,medium,500,500,375,700
-ACT-0011,Burleigh lights,Street light (OSM 10213683217),Out: Street light (OSM 10213683217),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0012,Burleigh lights,Street light (OSM 10213683304),Out: Street light (OSM 10213683304),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0013,Burleigh lights,Street light (OSM 10213697829),Flickering or cycling: Street light (OSM 10213697829),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0014,Burleigh lights,Street light (OSM 10213697832),Flickering or cycling: Street light (OSM 10213697832),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0015,Burleigh lights,Street light (OSM 10213697835),Flickering or cycling: Street light (OSM 10213697835),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0016,Burleigh lights,Street light (OSM 12550733781),Out: Street light (OSM 12550733781),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0017,Burleigh lights,Street light (OSM 12550733783),Flickering or cycling: Street light (OSM 12550733783),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0018,Burleigh lights,Street light (OSM 12550733791),Out: Street light (OSM 12550733791),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0019,Burleigh lights,Street light (OSM 12550733793),Flickering or cycling: Street light (OSM 12550733793),lt.lamp,1,ea,Not stated,medium,289.1,289.1,243.2,382.95
-ACT-0020,Burleigh lights,Street light (OSM 12550776312),Out: Street light (OSM 12550776312),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
-ACT-0021,Burleigh lights,PRIVATE DTMR - LIGHT,Dim: PRIVATE DTMR - LIGHT,lt.lamp,1,ea,State roads authority,medium,289.1,289.1,243.2,382.95
+ACT-0001,Burleigh lights,Street light (OSM 12550733793),Not lit: flickering: Street light (OSM 12550733793),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0002,Burleigh lights,Street light (OSM 12550733791),Not lit: out: Street light (OSM 12550733791),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0003,Burleigh lights,Street light (OSM 12550733783),Not lit: flickering: Street light (OSM 12550733783),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0004,Burleigh lights,Street light (OSM 12550733781),Not lit: out: Street light (OSM 12550733781),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0005,Burleigh lights,Street light (OSM 10211462649),Not lit: out: Street light (OSM 10211462649),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0006,Burleigh lights,Street light (OSM 10211462648),Not lit: flickering: Street light (OSM 10211462648),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0007,Burleigh lights,Street light (OSM 10211462642),Not lit: out: Street light (OSM 10211462642),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0008,Burleigh lights,Street light (OSM 12550776312),Not lit: out: Street light (OSM 12550776312),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0009,Burleigh lights,Street light (OSM 10211462621),Not lit: flickering: Street light (OSM 10211462621),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0010,Burleigh lights,Street light (OSM 10213697829),Not lit: flickering: Street light (OSM 10213697829),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0011,Burleigh lights,Street light (OSM 6126046020),Not lit: dim: Street light (OSM 6126046020),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0012,Burleigh lights,Street light (OSM 10213697832),Not lit: flickering: Street light (OSM 10213697832),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0013,Burleigh lights,Street light (OSM 10213697835),Not lit: flickering: Street light (OSM 10213697835),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0014,Burleigh lights,Street light (OSM 10213683217),Not lit: out: Street light (OSM 10213683217),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0015,Burleigh lights,PRIVATE DTMR - LIGHT,Not lit: dim: PRIVATE DTMR - LIGHT,lt.lamp,1,ea,DMR,high,289.1,289.1,243.2,382.95
+ACT-0016,Burleigh lights,Street light (OSM 10211462680),Not lit: flickering: Street light (OSM 10211462680),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0017,Burleigh lights,Street light (OSM 10211462675),Not lit: out: Street light (OSM 10211462675),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0018,Burleigh lights,Street light (OSM 10211462674),Not lit: cycling on and off: Street light (OSM 10211462674),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0019,Burleigh lights,Street light (OSM 10213683304),Not lit: out: Street light (OSM 10213683304),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0020,Burleigh lights,Street light (OSM 10213661596),Not lit: out: Street light (OSM 10213661596),lt.lamp,1,ea,Not stated,high,289.1,289.1,243.2,382.95
+ACT-0021,Burleigh lights,Street light (OSM 10213661616),Obstructed by a tree: Street light (OSM 10213661616),tr.prune,1,ea,Not stated,medium,500,500,375,700
 ACT-0022,Burleigh pits before the wet,Side entry pit 000000004000046393,Needs cleaning (silt 75% of depth); Needs repair: Side entry pit 000000004000046393,sw.pit_clean,1,ea,Not stated,high,150,150,115,225
 ACT-0023,Burleigh pits before the wet,Side entry pit 000000004000046393,Needs cleaning (silt 75% of depth); Needs repair: Side entry pit 000000004000046393,sw.grate,1,ea,Not stated,high,416.1,416.1,310.5,649.5
 ACT-0024,Burleigh pits before the wet,Side entry pit 000000004000046498,Needs cleaning (silt 50% of depth): Side entry pit 000000004000046498,sw.pit_clean,1,ea,Not stated,medium,150,150,115,225
